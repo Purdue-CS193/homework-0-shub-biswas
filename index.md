@@ -1,3 +1,14 @@
+# Shubhro's First CS193 Homework
+
+### Things I Like About CS193
+- It's a very short walk from my dorm.
+- I love having my class at 5:30 pm.
+- There aren't a lot of kids in my class, and it's not crowded at all.
+- The desks are big enough to set my laptop down.
+- It's so fun and I love the lectures.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
